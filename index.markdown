@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tekkub's Crap
+title: 3DIC News
 ---
 
 <ul id="posts" class="index">
