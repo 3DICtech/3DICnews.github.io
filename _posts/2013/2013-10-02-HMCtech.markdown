@@ -1,0 +1,15 @@
+---
+layout: post
+title: Review of Micron Technology'sHybrid Memory Cube
+---
+
+HMC in Volume Production Planned for 2014.
+
+
+## Micron Technology ships first samples of Hybrid Memory Cube
+
+![](http://www.micron.com/~/media/Images/Content%20Images/content_image_hmc_layers_w_labels.jpg)
+
+Micron Technology, Inc. (Nasdaq:MU), announced that it is shipping 2GB Hybrid Memory Cube (HMC) engineering samples.
+
+More about [HMC](http://www.micron.com/products/hybrid-memory-cube)
