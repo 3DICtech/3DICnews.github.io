@@ -1,3 +1,3 @@
-# 3DIC News!
+# 3DIC Technology
 
-3DIC news Here.
+3DIC Technology.
