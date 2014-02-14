@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3DIC News
+title: 3DIC Tech
 ---
 
 <ul id="posts" class="index">
