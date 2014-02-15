@@ -21,43 +21,43 @@ http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetah
 
 PAT. NO.		 Title
 
-1	8,471,263	ftext.gif	Information storage system which includes a bonded semiconductor structure
+1	8,471,263	Information storage system which includes a bonded semiconductor structure
 
-2	8,455,978	ftext.gif	Semiconductor circuit structure and method of making the same
+2	8,455,978	Semiconductor circuit structure and method of making the same
 
-3	8,367,524	ftext.gif	Three-dimensional integrated circuit structure
+3	8,367,524	Three-dimensional integrated circuit structure
 
-4	8,071,438	ftext.gif	Semiconductor circuit
+4	8,071,438	Semiconductor circuit
 
-5	8,058,142	ftext.gif	Bonded semiconductor structure and method of making the same
+5	8,058,142	Bonded semiconductor structure and method of making the same
 
-6	8,018,058	ftext.gif	Semiconductor memory device
+6	8,018,058	Semiconductor memory device
 
-7	7,888,764	ftext.gif	Three-dimensional integrated circuit structure
+7	7,888,764	Three-dimensional integrated circuit structure
 
-8	7,867,822	ftext.gif	Semiconductor memory device
+8	7,867,822	Semiconductor memory device
 
-9	7,846,814	ftext.gif	Semiconductor layer structure and method of making the same
+9	7,846,814	Semiconductor layer structure and method of making the same
 
-10	7,800,199	ftext.gif	Semiconductor circuit
+10	7,800,199	Semiconductor circuit
 
-11	7,799,675	ftext.gif	Bonded semiconductor structure and method of fabricating the same
+11	7,799,675	Bonded semiconductor structure and method of fabricating the same
 
-12	7,718,508	ftext.gif	Semiconductor bonding and layer transfer method
+12	7,718,508	Semiconductor bonding and layer transfer method
 
-13	7,671,371	ftext.gif	Semiconductor layer structure and method of making the same
+13	7,671,371	Semiconductor layer structure and method of making the same
 
-14	7,633,162	ftext.gif	Electronic circuit with embedded memory
+14	7,633,162	Electronic circuit with embedded memory
 
-15	7,632,738	ftext.gif	Wafer bonding method
+15	7,632,738	Wafer bonding method
 
-16	7,470,598	ftext.gif	Semiconductor layer structure and method of making the same
+16	7,470,598	Semiconductor layer structure and method of making the same
 
-17	7,470,142	ftext.gif	Wafer bonding method
+17	7,470,142	Wafer bonding method
 
-18	7,378,702	ftext.gif	Vertical memory device structures
+18	7,378,702	Vertical memory device structures
 
-19	7,052,941	ftext.gif	Method for making a three-dimensional integrated circuit structure
+19	7,052,941	Method for making a three-dimensional integrated circuit structure
 
 
 
