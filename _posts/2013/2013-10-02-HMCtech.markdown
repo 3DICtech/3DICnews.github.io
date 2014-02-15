@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of Micron Technology'sHybrid Memory Cube
+title: Micron Technology'sHybrid Memory Cube
 ---
 
 HMC in Volume Production Planned for 2014.
